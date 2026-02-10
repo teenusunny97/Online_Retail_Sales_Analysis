@@ -7,6 +7,9 @@
 
 **Tools Used:** Excel (Pivot Tables, Charts, Dashboard)
 
+## Data Source
+
+The dataset used in this project is the **Online Retail II Dataset** from Kaggle
 
 ## Project Overview
 
