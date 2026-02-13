@@ -43,3 +43,5 @@ The analysis is performed entirely in **Excel** using Pivot Tables, charts, and 
 
 A fully interactive **Excel dashboard** that provides actionable insights from raw transactional data, suitable for business reporting and portfolio demonstration.
 
+Online_Sales_Dashboard.png
+
